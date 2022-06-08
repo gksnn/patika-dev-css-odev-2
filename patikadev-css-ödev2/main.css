@@ -1,0 +1,92 @@
+img {
+  position: relative;
+  left: 40rem;
+  top: 1rem;
+  width: 25rem;
+}
+
+.search-area {
+  background: #fafafa;
+  text-align: center;
+  height: 4rem;
+}
+
+#search {
+  width: 20rem;
+  position: relative;
+  left: 7rem;
+  bottom: 1rem;
+}
+
+.search-btn {
+  position: relative;
+  top: 0.5rem;
+  right: 10rem;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+  
+}
+
+.box-1 {
+  background: #00f7f7;
+  width: 35rem;
+  height: 5rem;
+  position: relative;
+  top:.2rem;
+  
+  
+}
+.box-2 {
+  background: #00d1b7;
+  width: 35rem;
+  position: relative;
+  left: 36rem;
+  bottom: 5.8rem;
+  height: 5rem;
+}
+.box-3 {
+  background: #00b7a0;
+  text-align: center;
+  width: 35rem;
+  position: relative;
+  left: 72rem;
+  bottom: 11.8rem;
+  height: 5rem;
+}
+
+h3 {
+  text-align: center;
+  position: relative;
+  left: 20px;
+}
+
+a{
+    color: blue;
+}
+
+#email{
+    position: relative;
+    bottom: 1rem;
+    left: 4rem;
+    width: 20rem;
+}
+
+.sub-btn{
+    position: relative;
+    top:5px;
+    right: 140px
+}
+
+.archive{
+    position: relative;
+    right: 120px;
+    top:5px
+}
+
+ #copyright{
+     width: 25rem;
+     
+ }
